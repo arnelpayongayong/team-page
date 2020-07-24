@@ -143,9 +143,6 @@
 }
 
 @media screen and (max-width: 1000px) {
-    body{
-        background-color: red;
-    }
     .grid-item .grid-image img{
         height: 200px;
     }
